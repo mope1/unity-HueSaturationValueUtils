@@ -1,0 +1,16 @@
+*.suo
+*.sln
+*.sln.docstates
+*.csproj
+*.unityproj
+*.pidb
+*.userprefs
+*.DS_Store
+Thumbs.db
+*-csharp.sln.*/
+*.orig
+*.orig.meta
+*.apk
+
+Library/
+Temp/
