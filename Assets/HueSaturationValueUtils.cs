@@ -23,7 +23,6 @@ namespace HueSaturationValueUtils {
 		}
 		
 		public Color toRGB () {
-			Debug.Log (h + "," + s + "," + v);
 			float r, g, b;
 
 			if(s == 0) {
@@ -86,7 +85,6 @@ namespace HueSaturationValueUtils {
 				b=0;
 				break;
 			}
-			Debug.Log (segment+","+r + "," + g + "," + b);
 
 			return new Color (r, g, b);
 		}
