@@ -1,5 +1,5 @@
 # unity-HueSaturationValueUtils
-It's a tiny helper classes for color conversion.
+It's two tiny helper classes for color conversion.
 
 **Usage:**
 ```
